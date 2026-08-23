@@ -14,41 +14,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Feedzai](https://www.feedzai.com/)**  
-  AI-powered risk management platform combining fraud and AML transaction monitoring with strong model explainability for banks and payment institutions.
 
-- **[NICE Actimize](https://www.niceactimize.com/)**  
-  Enterprise financial crime platform widely used by large banks for AML transaction monitoring, fraud detection, and case management with deep core-banking integrations.
-
-- **[Featurespace](https://www.featurespace.com/)**  
-  Adaptive behavioral analytics platform specializing in real-time fraud and financial crime detection using machine learning.
-
-- **[ComplyAdvantage](https://complyadvantage.com/)**  
-  AI-native AML platform offering real-time sanctions/PEP screening, transaction monitoring, and risk intelligence for fintechs and financial institutions.
-
-- **[Lucinity](https://www.lucinity.com/)**  
-  Modern AML and transaction monitoring platform focused on AI-assisted investigations and reduced false positives.
-
-- **[Flagright](https://www.flagright.com/)**  
-  Real-time AML and fraud prevention platform designed for fintechs and payment companies with API-first architecture.
-
-- **[SEON](https://seon.io/)**  
-  Fraud prevention and AML platform combining device intelligence, digital footprint analysis, and transaction monitoring.
-
-- **[Unit21](https://www.unit21.ai/)**  
-  No-code/low-code transaction monitoring and case management platform popular with fintech compliance teams.
-
-- **[FICO TONBELLER](https://www.fico.com/)**  
-  Established AML and compliance solutions from FICO covering transaction monitoring and financial crime risk management.
-
-- **[SAS Anti-Money Laundering](https://www.sas.com/)**  
-  Comprehensive AML suite from SAS offering transaction monitoring, customer due diligence, and regulatory reporting capabilities.
+| Platform | Capabilities | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[SEON](https://seon.io/)** | Fraud prevention and AML platform combining device intelligence, digital footprint analysis, and real-time transaction monitoring. | **$699 / month** (Starter/Pro tier with 10+ QPS) | **Forever Free plan**: Up to 2,000 API calls/month (2 QPS rate limit, email support) or 14-day full-feature free trial (no credit card required). |
+| **[ComplyAdvantage](https://complyadvantage.com/)** | AI-native AML platform offering real-time sanctions/PEP screening, transaction monitoring, and risk intelligence. | **$99 / month** (billed annually at $1,188/yr) or $119/mo (billed monthly) for up to 100 monitored entities | **ComplyLaunch program**: 12 months free access for eligible early-stage startups; standard plans offer guided interactive sandbox demo. |
+| **[Flagright](https://www.flagright.com/)** | Real-time AML and fraud prevention platform designed for fintechs and payment companies with API-first architecture. | **~$30,000 / year** (~$2,500/month) base volume tier | **Startup Program**: 1st year free (12 months full platform access) for eligible early-stage startups; or 14-day guided POC trial upon request. |
+| **[Unit21](https://www.unit21.ai/)** | No-code/low-code transaction monitoring, alert triage, and case management platform popular with fintech compliance teams. | **~$33,000 / year** (~$2,750/month) base contract for entry transaction volume tiers | **30-day guided POC sandbox**: Access with synthetic financial crime datasets for qualified prospective teams upon sales request. |
+| **[Lucinity](https://www.lucinity.com/)** | Modern AML and transaction monitoring platform focused on AI-assisted investigations, actor-centric profiles, and reduced false positives. | **~$54,000 / year** (~$4,500/month) base subscription or SLA-based completed work pricing | **14-day interactive demo sandbox**: Preloaded with realistic AML scenario data to test alert handling and Copilot investigation tools. |
+| **[Feedzai](https://www.feedzai.com/)** | AI-powered risk management platform combining fraud and AML transaction monitoring with strong model explainability for banks and payment institutions. | **~$60,000 / year** base SaaS subscription (available via AWS Marketplace) | **60-day targeted POC trial**: Available for qualified financial institutions alongside a complimentary risk intelligence briefing. |
+| **[NICE Actimize](https://www.niceactimize.com/)** | Enterprise financial crime platform widely used by Tier 1/2 banks for AML transaction monitoring, fraud detection, and case management with deep core-banking integrations. | **~$50,000 / year** entry tier for mid-market/essentials deployments (scaling to $200k–$500k+ for full enterprise suite) | **30-day guided enterprise POC**: Dedicated sandbox environment with integration testing for qualified institutions upon request. |
+| **[Featurespace](https://www.featurespace.com/)** | Adaptive behavioral analytics platform (ARIC Risk Hub) specializing in real-time fraud and financial crime detection using machine learning. | **~$75,000 / year** base SaaS contract (available via AWS Marketplace private offer) | **30-day POC sandbox**: Tailored testing environment with simulated transaction streams for enterprise evaluation. |
+| **[SAS Anti-Money Laundering](https://www.sas.com/)** | Comprehensive AML suite from SAS offering transaction monitoring, customer due diligence, and regulatory reporting on the SAS Viya analytics engine. | **~$100,000 / year** base enterprise subscription on SAS Cloud / Viya platform | **14-day SAS Viya free trial**: Includes up to 1GB data upload, preloaded analytical models, and up to 5 user collaboration seats. |
+| **[FICO TONBELLER](https://www.fico.com/)** | Established AML and compliance suite (FICO Siron AML) covering transaction monitoring, KYC, and financial crime risk management. | **~$180,000 / year** base enterprise contract for the compliance & decision management suite | **30-day guided pilot / POC**: Evaluation sandbox with custom rule calibration and typology simulation for enterprise prospects. |
 
 ## Open-Source GitHub Projects
 - **[Marble](https://github.com/checkmarble/marble)**  
