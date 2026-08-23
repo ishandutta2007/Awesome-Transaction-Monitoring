@@ -1,6 +1,6 @@
 # Awesome-Transaction-Monitoring
 
-# Top Transaction Monitoring Platforms Ecosystem
+## Top Transaction Monitoring Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on AML Transaction Monitoring, Fraud Detection, Sanctions Screening, Behavioral Analytics, Case Management & Regulatory Compliance*
 **Last updated: August 2026**
